@@ -1,1 +1,3 @@
-# music-player
+# [Music Player]()
+## A Music Player with basic abilities like playing/stopping song, next song etc...
+#### ·HTML ·JavaScript ·CSS ·JSON
